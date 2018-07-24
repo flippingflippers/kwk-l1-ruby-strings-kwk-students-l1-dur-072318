@@ -2,7 +2,7 @@
 
 # Try starting out with puts'ing a string.
 def guest_name
-  puts "Dear Mathiass"
+  puts "Dear Mathiass,"
 end
 
 def party_name
