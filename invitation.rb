@@ -2,27 +2,27 @@
 
 # Try starting out with puts'ing a string.
 def guest_name
-  Dear Mathiass
+  puts "Dear Mathiass"
 end
 
 def party_name
-  You are cor
+  puts "You are cordinally invited to the best party of the year!"
 end
 
 def date
-  Please bring yourself on August 1st.
+  puts "Please bring yourself on August 1st."
 end
 
 def time
-  All of the fun starts at 3pm!
+  puts "All of the fun starts at 3pm!"
 end
 
 def host_name
-  Sincerely, Alexina Hill
+  puts "Sincerely, Alexina Hill"
 end
 
-*guest_name
-*party_name
-*date
-*time
-*host_name
+guest_name
+party_name
+date
+time
+host_name
